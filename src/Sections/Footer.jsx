@@ -44,7 +44,7 @@ const Footer = () => {
              
           Evy est une Société par Actions Simplifiée (SAS) au capital de 1 955.08 €, 
           inscrite au registre du commerce et des sociétés 
-          de Paris sous le numéro 902 019 819, et dont le siège social est situé 38 
+          de Paris sous le numéro 902 019 819, et dont, le siège social est situé  38 
           rue des Mathurins à Paris (75008).
           </div>
           <div>
