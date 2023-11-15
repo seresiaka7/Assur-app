@@ -17,7 +17,7 @@ const Section4 = () => {
 <div className='mt-20 pt-10 font-sans font-bold text-6xl my-10 pb-7 align-middle'>
 Profitez de vos objets plus longtemps
 </div>
-<p className='text-1xl  mt-10 pt-10 font-sans'>
+<p className='text-1xl  mt-10 pt-10 font-mono'>
 
 On répare à la demande. Sholip vous propose une réparation chaque fois que c'est possible.</p>
 <div  className='flex gap-8  mt-3'>
