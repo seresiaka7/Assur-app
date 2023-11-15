@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="text-white   font-palanquin font-semibold  ">
 
-        <header className="bg-blue-700 flex  justify-between  items-center w-full h-20 fixed">
+        <header className="bg-pink-400 flex  justify-between  items-center w-full h-20 fixed">
             
                 <div className='absolute my-6 mx-7 mt-7'>
                     <img src={Logo} alt="logo "className='w-20 h-20' />
