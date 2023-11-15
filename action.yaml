@@ -24,7 +24,7 @@ jobs:
     - name: Build
       run: npm run build
 
-    - name: Deploy to GitHub Pages
+    - name: Checkout Repository
       uses: actions/deploy-pages@v2
       with:
         branch: gh-pages
