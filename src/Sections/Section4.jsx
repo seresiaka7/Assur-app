@@ -1,6 +1,6 @@
 import React from 'react'
 import Sect4 from "../assets/sect4.png"
-import Verify from "../assets/Verify.png"
+import Verify from "../assets/verify.png"
 const Section4 = () => {
   return (
     <div>
